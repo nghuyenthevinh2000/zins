@@ -1,5 +1,7 @@
 # Zen Innovation Network State (ZINS)
 
+Warning: Work in progress! Do not take seriously.
+
 ## Core
 One Core Direction: Ending Sufferings, Birthing Innovations  
 
