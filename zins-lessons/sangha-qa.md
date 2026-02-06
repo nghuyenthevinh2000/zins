@@ -28,6 +28,39 @@ Artificial Intelligence may not be able to replace older members in fostering re
 
 Reference: section 15, Mahākhandhaka—Bhikkhu Brahmali, https://suttacentral.net/pli-tv-kd1/en/brahmali
 
-2. AI fostering peer-to-peer learning
-There are different levels of expertise in the community. A member is both a master in some topics and a novice in others. 
+2. Newcomer Hindrances
+
+As I communicate with newcomers, I observe different kinds of hindrances in their observation. These hindrances prevent them from seeing their own problems clearly, thus unable to find solutions or want to request help from others.
+
+    * No need to observe
+    * Unable to observe specifically
+    * Unable to observe clearly
+    * Unable to observe with focus
+    * Cling to suffering observations
+
+How to help newcomers overcome these hindrances? Can AI help here?
+
+**Answer:** 
+
+In Buddhist scriptures, the Buddha taught of The Five Hindrances:
+    
+    * Sensual Desire (*kāmacchanda*): Being "blinded by sensual pleasures," like a man caught in a net.
+    * Ill Will (*vyāpāda*): A mind clouded by hate, which is compared to boiling water where you cannot see your own reflection.
+    * Dullness and Drowsiness (*thīna-middha*): Mental sluggishness that makes the mind "obscure" and "deep," like water covered in moss and algae.
+    * Restlessness and Remorse (*uddhacca-kukkucca*): An agitated mind, compared to water whipped by the wind into waves.
+    * Doubt (*vicikicchā*): Indecision, compared to muddy water or being lost in a "forked path" in a forest. 
+
+These hindrances make newcomers unable to see their own problems clearly, thus unable to find solutions or want to request help from others. The Buddha taught of the way to overcome these hindrances, knowingly The Seven Factors of Awakening:
+
+    * Mindfulness (*sati*): Observe the present moment without judgment, realizing problem exists.
+    * Investigation of Phenomena (*dhammavicaya*): Analyzing and understanding the problem.
+    * Energy (*viriya*): Diligent effort in analyzing and finding solutions.
+    * Joy (*pīti*): A sense of happiness and well-being when getting better.
+    * Tranquility (*passaddhi*): A calm and peaceful state of mind when analyzing and finding solutions.
+    * Concentration (*samādhi*): The ability to focus the mind when analyzing and finding solutions.
+    * Equanimity (*upekkhā*): Willingness to let go of the clinging to problem roots.
+
+AI is reactive, not proactive. It can help offer different angles of observation to newcomers, helping them with new perspectives and insights. But, AI can't replace the role of older members in guiding newcomers.
+
+3. 
 
